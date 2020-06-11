@@ -1,10 +1,9 @@
 # website-ristoria
-
-A fully responsive webapp style website.
+An example of fully responsive webapp style website. (still in progress...)
 
 ## Here some detail
 *    **website-ristoria** is a responsive restaurant website
-*    It is designed for *"Ristoria de' Monaldeshi"* award winning restaurant in Orvieto, Italy
+*    It is designed for *"Ristoria de' Monaldeschi"* award winning restaurant in Orvieto, Italy
 *    It is social friendly and provide a direct connection to reserve a seat
 *    Demo version (fully functional) is [here](https://silviotorre.github.io/website-ristoria/ "Ristoria demo site")
 *    Website use Html+CSS+Javascript (Parallax framework)
