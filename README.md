@@ -3,7 +3,7 @@ An example of fully responsive webapp style website. (still in progress...)</br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/silviotorre/website-ristoria?style=flat-square)
 ![Website](https://img.shields.io/website?style=flat-square&up_message=Online&url=http%3A%2F%2Fristoria.eu)
 
-## Details
+## Details 
 
 * **website-ristoria** is a responsive restaurant website
 * It is designed for *"Ristoria de' Monaldeschi"* award winning restaurant in Orvieto, Italy
