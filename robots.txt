@@ -1,6 +1,7 @@
 #User agent crawling directive
 User-agent: *
 Disallow: /*.mobirise 
+Crawl-delay: 5
 # Showing Host directive
 host: ristoria.eu
 #Sitemap Directive
