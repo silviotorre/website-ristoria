@@ -1,4 +1,7 @@
+#User agent crawling directive
 User-agent: *
-Disallow: 
-
+Disallow: /*.mobirise 
+# Showing Host directive
+host: ristoria.eu
+#Sitemap Directive
 Sitemap: http://ristoria.eu/sitemap.xml
