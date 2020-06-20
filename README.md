@@ -14,4 +14,4 @@ An example of fully responsive webapp style website. (still in progress...)</br>
 ### Take notes ;-)
 
 * If you are in Italy my advice is to plan to visit Orvieto, a medieval city sits atop a volcanic cliff, watching over Umbria below
-* If you do so next step is to go to Ristoria de' Monaldeschi and ask for "Umbrichelli al Tartufo" with a glass of wine "Orvieto Classico".
+* If you do so next step is to go to [Ristoria de' Monaldeschi](http://ristoria.eu/ "Ristoria de' Monaldeschi") and ask for "Umbrichelli al Tartufo" with a glass of wine "Orvieto Classico".
