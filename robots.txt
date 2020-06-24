@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /*.mobirise 
 Crawl-delay: 60
 Request Rate:1/10 
-#Visit-time 0600-1015
+Visit-time 0600-1000 
 # Showing Host directive
 host: ristoria.eu
 #Sitemap Directive
