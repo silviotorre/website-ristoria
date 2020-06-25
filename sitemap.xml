@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>http://ristoria.eu/assets/files/menù pizze-1.pdf</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>yearly</changefreq>
 </url>
 <url>
   <loc>http://ristoria.eu/assets/files/menu-estivo-2019.pdf</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://ristoria.eu/assets/files/men%C3%B9%20Ristoria%202019-20.pdf</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>monthly</changefreq>
 </url>
 </urlset>
