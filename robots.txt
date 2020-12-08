@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /*.mobirise 
 Disallow: /.vscode/
 Disallow: /.ionide/
-Crawl-delay: 60
+Crawl-delay: 65
 Request Rate:1/10 
 Visit-time 0600-1000 
 # Showing Host directive
