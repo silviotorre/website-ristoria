@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>http://ristoria.eu/assets/files/menù pizze-1.pdf</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://ristoria.eu/assets/files/menu-estivo-2019.pdf</loc>
+  <loc>http://ristoria.eu/assets/files/menu-fisso.pdf</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://ristoria.eu/assets/files/men%C3%B9%20Ristoria%202019-20.pdf</loc>
+  <loc>http://ristoria.eu/assets/files/menu.pdf</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
