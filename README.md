@@ -10,8 +10,9 @@ An example of fully responsive webapp style website. (still in progress...)</br>
 * It is social friendly and provide a direct connection to reserve a seat
 * Demo version (fully functional) is [here](https://silviotorre.github.io/website-ristoria/ "Ristoria demo site")
 * Website use Html+CSS+Javascript (Parallax framework)
+![Author](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=silviotorre)
 
 ### Take notes ;-)
 
 * If you are in Italy my advice is to plan to visit Orvieto, a medieval city sits atop a volcanic cliff, watching over Umbria region below
-* If you do so next step is to go to [Risto.ria de' Monaldeschi](http://ristoria.eu/ "Ristoria de' Monaldeschi") and ask for "Umbrichelli al Tartufo" with a glass of wine "Orvieto Classico".
+* If you do so next step is to go to [Ristoria de' Monaldeschi](http://ristoria.eu/ "Ristoria de' Monaldeschi") and ask for "Umbrichelli al Tartufo" with a glass of wine "Orvieto Classico".
